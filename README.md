@@ -123,3 +123,7 @@ WHERE
 - a) A distância entre Ribeirão Preto e Barretos é de 125 km.
 - b) Considere 3 pedágios como obstáculo, e que o carro leva 5 minutos a mais para passar em cada um deles, pois ele não possui dispositivo de cobrança de pedágio.
 - c) Explique como chegou ao resultado.
+
+### Para visualizar a resolução das questões 01, 02, 03 e 05, execute o aplicativo e toque no card correspondente a cada questão.
+
+<img src = "https://github.com/user-attachments/assets/c6d0f5fd-6a89-493a-80dd-5eec64cb0849" height="550px"/>
